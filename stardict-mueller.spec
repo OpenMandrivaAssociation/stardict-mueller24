@@ -7,7 +7,7 @@ Version: 		2.4.2
 Release: 		2
 Summary: 		Mueller's English-Russian Dictionary, 24th edition
 License: 		GPLv2+
-URL:			http://xdxf.revdanica.com/down/index.php
+URL:			https://xdxf.revdanica.com/down/index.php
 Group: 			Text tools
 Source0: 		%dict_name.dict.dz
 Source1: 		%dict_name.idx
